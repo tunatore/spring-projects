@@ -8,7 +8,7 @@
   <properties>
         <springframework.version>4.2.4.RELEASE</springframework.version>
         <spring.security.version>4.0.3.RELEASE</spring.security.version>
-        <spring.jpa.data.version>1.9.2.RELEASE</spring.jpa.data.version>
+        <spring.jpa.data.version>1.11.23.RELEASE</spring.jpa.data.version>
 		<hibernate.version>4.2.1.Final</hibernate.version>
         <logback.version>1.0.13</logback.version>
 		<slf4j.version>1.7.5</slf4j.version>		
