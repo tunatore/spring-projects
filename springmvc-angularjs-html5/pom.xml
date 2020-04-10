@@ -22,7 +22,7 @@
 		<spring-security.version>4.0.1.RELEASE</spring-security.version>
 		
 		<!-- Spring Data -->
-		<spring-framework.data.version>1.8.0.RELEASE</spring-framework.data.version>
+		<spring-framework.data.version>1.11.23.RELEASE</spring-framework.data.version>
 		
 		<!-- Hibernate / JPA -->
 		<hibernate.version>4.2.1.Final</hibernate.version>
