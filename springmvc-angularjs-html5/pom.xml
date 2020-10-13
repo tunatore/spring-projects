@@ -35,7 +35,7 @@
 		<jackson.databind-version>2.2.3</jackson.databind-version>
 		
 		<!-- JUnit test -->
-		<junit.version>4.11</junit.version>
+		<junit.version>4.13.1</junit.version>
 		
 		<!-- Quartz scheduling framework -->
 		<quartz.scheduling.version>2.2.1</quartz.scheduling.version>
