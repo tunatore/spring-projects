@@ -19,7 +19,7 @@
 		<spring-framework.version>4.1.7.RELEASE</spring-framework.version>
 
 		<!-- Spring Security -->
-		<spring-security.version>4.0.1.RELEASE</spring-security.version>
+		<spring-security.version>5.2.10.RELEASE</spring-security.version>
 		
 		<!-- Spring Data -->
 		<spring-framework.data.version>1.8.0.RELEASE</spring-framework.data.version>
